@@ -1,6 +1,7 @@
 # Projetos DIO
-Projetos da Digital Innovation One
+##Projetos da Digital Innovation One
+----
 
-- Cursos Praticados:
+## Cursos Praticados:
 
-  Formação SQL Database Specialist
+  * Formação SQL Database Specialist
