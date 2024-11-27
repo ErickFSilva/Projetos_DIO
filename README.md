@@ -2,6 +2,6 @@
 ##Projetos da Digital Innovation One
 ----
 
-## Cursos Praticados:
+### Cursos Praticados:
 
   * Formação SQL Database Specialist
