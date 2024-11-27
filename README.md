@@ -1,6 +1,4 @@
-# Projetos DIO
-## Projetos da Digital Innovation One
-----
+# Projetos Digital Innovation One
 
 ### Cursos Praticados:
 
