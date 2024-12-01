@@ -1,0 +1,28 @@
+# Erick Ferreira da Silva
+
+## Quem sou eu?
+
+**Profissional de TI** a mais de 10 anos.
+
+Sempre atuei com suporte à informática, adquirindo experiências em provedores de internet,  manutenção em computadores, suporte à usuários de informática.
+
+Também conheci um pouco de desenvolvimento web.
+
+> **Nota:** Sempre observei os dados e a segurança de dados com algo a ser estudado e desenvolvido.
+
+Venho me capacitanto diariamente, nos últimos meses, em realizar minha transição de carreira no setor de dados. Tendo como stack o desenvolvimento e análise de dados.
+
+Descobri um carinho especial por **Banco de Dados Relacional**, tanto o **desenvolvimento** como a **análise dos dados**. Tenho despertado interesses em **Inteligência Artificial** e **Segurança dos Dados**.
+
+Hoje estudo **SQL** diariamente, com o **SGBD MySQL**.
+Mais a frente pretendo também conher outros SGBDs, como, **SQL SERVER** e **ORACLE DB**.
+
+## Minhas principais redes sociais são:
+
+- LinkedIn: https://www.linkedin.com/in/erick-ferreira/
+- GitHub: https://github.com/ErickFSilva
+
+> Recentemente venho trabalhando meu perfil da DIO: https://www.dio.me/users/erick_ferreira
+
+## Já tive contato com outras tecnologias, sendo elas:
+HTML, CSS, JAVASCRIPT, PHP, PYTHON e JAVA.
