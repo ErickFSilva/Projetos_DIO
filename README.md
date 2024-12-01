@@ -1,5 +1,8 @@
 # Projetos Digital Innovation One
+Projetos e conteúdos de cursos da DIO
 
-### Cursos Praticados:
+### Cursos:
 
   * Formação SQL Database Specialist
+  * Formação Lógica de Programação
+  * Formação Github Certification
